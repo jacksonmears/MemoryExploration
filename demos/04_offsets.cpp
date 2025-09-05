@@ -19,7 +19,7 @@ int main() {
 /*
 # Understanding Memory Offsets in Arrays
 
-In the previous example, we learned that memory addresses point to the **first byte of a variable** in RAM.  
+In the previous examples, we learned that memory addresses point to the **first byte of a variable** in RAM.  
 Now let's extend this to arrays and how elements are laid out in memory.
 
 ## Arrays Are Contiguous in Memory
